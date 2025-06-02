@@ -1,0 +1,2 @@
+# test_tuya
+PRUEBA ANALISTA DE DATOS 
